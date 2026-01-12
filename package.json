@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/amannn/action-semantic-pull-request#readme",
   "dependencies": {
-    "@actions/core": "^2.0.1",
-    "@actions/github": "^6.0.1",
+    "@actions/core": "^2.0.2",
+    "@actions/github": "^7.0.0",
     "conventional-changelog-conventionalcommits": "9.1.0",
     "conventional-commit-types": "^3.0.0",
     "conventional-commits-parser": "^6.2.1"
@@ -43,10 +43,10 @@
     "eslint-config-molindo": "8.0.0",
     "globals": "^17.0.0",
     "prettier": "^3.7.4",
-    "rollup": "^4.54.0",
+    "rollup": "^4.55.1",
     "semantic-release": "^25.0.2",
     "semantic-release-major-tag": "0.3.2",
-    "vitest": "^4.0.16"
+    "vitest": "^4.0.17"
   },
   "engines": {
     "node": "^24.0.0"
